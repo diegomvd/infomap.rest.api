@@ -1,0 +1,6 @@
+flask
+infomap
+networkx
+python-dotenv
+protobuf
+flask-protobuf
